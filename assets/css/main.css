@@ -1,1 +1,18 @@
-main.css
+body{
+	font-family: 'Abril Fatface', cursive;
+	background-color: #AC3C91;
+	font-size: 30px;
+}
+
+#boton{
+	background-color: #6A4FAD;
+	font-size: 30px;
+}
+
+footer{
+	position: relative;
+	background-color: #971140;
+	top: 460px;
+	height: 90px;
+	text-align: center;
+}
