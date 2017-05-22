@@ -10,9 +10,9 @@ function pasar(elem){
 	alert("¡Estás sobre mí!");
 }
 
-function salir(elem){
-alert("¡No estás sobre mí!");
-	}
-	
-/*var elem2=document.getElementById("bye");
-*/
+var elem2=document.getElementById("bye");
+function salir(elem2){
+	alert("¡No estás sobre mí!");
+}
+
+
