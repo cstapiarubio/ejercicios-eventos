@@ -12,7 +12,20 @@ body{
 footer{
 	position: relative;
 	background-color: #971140;
-	top: 460px;
+	top: 360px;
 	height: 90px;
 	text-align: center;
+}
+
+#boton:hover{
+	background-color:#2D71BF;
+}
+
+input{
+	background-color: #1171B4;
+	width: 50px;
+	height: 30px;
+	position: relative;
+	top:150px;
+	margin: 50px;
 }
